@@ -1,1 +1,2 @@
-# Edu.com
+# EDU-TEC
+
